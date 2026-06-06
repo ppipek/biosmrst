@@ -169,13 +169,16 @@
 <circle cx='320.70' cy='80.10' r='2.06' style='stroke-width: 0.71; stroke: #00BFC4; stroke-linecap: butt; fill: #00BFC4;' />
 <circle cx='321.19' cy='82.57' r='2.06' style='stroke-width: 0.71; stroke: #00BFC4; stroke-linecap: butt; fill: #00BFC4;' />
 <circle cx='347.87' cy='75.69' r='2.06' style='stroke-width: 0.71; stroke: #00BFC4; stroke-linecap: butt; fill: #00BFC4;' />
+<circle cx='420.18' cy='135.67' r='2.06' style='stroke-width: 0.71; stroke: #F8766D; stroke-linecap: butt; fill: #F8766D;' />
 <circle cx='374.15' cy='141.85' r='2.06' style='stroke-width: 0.71; stroke: #F8766D; stroke-linecap: butt; fill: #F8766D;' />
 <circle cx='423.45' cy='138.83' r='2.06' style='stroke-width: 0.71; stroke: #F8766D; stroke-linecap: butt; fill: #F8766D;' />
 <circle cx='417.75' cy='131.21' r='2.06' style='stroke-width: 0.71; stroke: #F8766D; stroke-linecap: butt; fill: #F8766D;' />
 <circle cx='324.43' cy='105.58' r='2.06' style='stroke-width: 0.71; stroke: #F8766D; stroke-linecap: butt; fill: #F8766D;' />
 <circle cx='324.37' cy='95.41' r='2.06' style='stroke-width: 0.71; stroke: #7CAE00; stroke-linecap: butt; fill: #7CAE00;' />
 <circle cx='326.72' cy='99.16' r='2.06' style='stroke-width: 0.71; stroke: #7CAE00; stroke-linecap: butt; fill: #7CAE00;' />
-<text x='440.15' y='58.53' text-anchor='middle' style='font-size: 11.38px;fill: #7F7F7F; font-family: "Liberation Sans";' textLength='38.27px' lengthAdjust='spacingAndGlyphs'>n = 104</text>
+<circle cx='295.00' cy='80.42' r='2.06' style='stroke-width: 0.71; stroke: #7CAE00; stroke-linecap: butt; fill: #7CAE00;' />
+<circle cx='338.57' cy='93.45' r='2.06' style='stroke-width: 0.71; stroke: #7CAE00; stroke-linecap: butt; fill: #7CAE00;' />
+<text x='440.15' y='58.53' text-anchor='middle' style='font-size: 11.38px;fill: #7F7F7F; font-family: "Liberation Sans";' textLength='38.27px' lengthAdjust='spacingAndGlyphs'>n = 107</text>
 </g>
 <g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwyMTYuMDA=)'>
 </g>
